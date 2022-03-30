@@ -13,7 +13,7 @@
 ✔ I’m currently working on a **Special Project**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
+✔ I'm also a competitive praogrammer [Codechef](https://www.codechef.com) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 📫 How to reach me **sayancr777@gmail.com**<br>
 ⚡ Fun fact **I play games and go to the GYM very often.**<br>
