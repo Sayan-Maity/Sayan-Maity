@@ -18,7 +18,7 @@
 📫 How to reach me **sayancr777@gmail.com**<br>
 ⚡ Fun fact **I play games and go to the GYM very often.**<br>
 
- 🚀 ***Languages and Tools:...***
+ <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="30px">&nbsp;***Languages and Tools:...***
 
 
 <p align="left"> 
