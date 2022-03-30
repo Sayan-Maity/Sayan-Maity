@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="100px"/></a>
+    <a href="#"><img width="50%" height="auto" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" height="100px"/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sayan this side</h1>
 <h3 align="center">I'm a passionate Frontend but aspiring Full Stack Developer from India.</h3>
@@ -15,8 +15,8 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-📫 How to reach me **sayancr777@gmail.com**
-⚡ Fun fact **I play games and go to the GYM very often.**
+📫 How to reach me **sayancr777@gmail.com**<br>
+⚡ Fun fact **I play games and go to the GYM very often.**<br>
 
 ## 🚀 Languages and Tools:
 
