@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-- 🔭 I’m currently working on a **Special Project**
+✔ I’m currently working on a **Special Project**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at My Portfolio
