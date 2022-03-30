@@ -80,4 +80,6 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Sayan-Maity?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
