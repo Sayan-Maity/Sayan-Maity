@@ -104,9 +104,9 @@
 
 ---
 <div align="center">
-:computer: Made with :heart: by **SAYAN MAITY** with **YHWH** :pray:
+:computer: Made with :heart: by SAYAN MAITY 
 
-Credits: [WarenGonzaga](https://github.com/WarenGonzaga)
+Credits: [Sayan](https://github.com/Sayan-Maity)
 
-Last Edited on: 17/11/2020
+Last Edited on: 06/04/2022
 </div>
