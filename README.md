@@ -104,7 +104,7 @@
 
 ---
 <div align="center">
-:computer: Made with :heart: by SAYAN MAITY 
+:computer: Made with :heart: by Sayan Maity
 
 Credits: [Sayan](https://github.com/Sayan-Maity)
 
