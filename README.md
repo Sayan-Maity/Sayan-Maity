@@ -103,9 +103,10 @@
 <!-- markdownlint-enable MD033 -->
 
 ---
-
+<div align="center">
 :computer: Made with :heart: by **SAYAN MAITY** with **YHWH** :pray:
 
 Credits: [WarenGonzaga](https://github.com/WarenGonzaga)
 
 Last Edited on: 17/11/2020
+</div>
