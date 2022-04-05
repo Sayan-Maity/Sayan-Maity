@@ -100,3 +100,12 @@
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
+<!-- markdownlint-enable MD033 -->
+
+---
+
+:computer: Made with :heart: by **SAYAN MAITY** with **YHWH** :pray:
+
+Credits: [WarenGonzaga](https://github.com/WarenGonzaga)
+
+Last Edited on: 17/11/2020
