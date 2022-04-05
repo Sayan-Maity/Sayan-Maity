@@ -25,8 +25,8 @@
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 
- <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="40px">&nbsp;&nbsp;***Languages and Tools ...***
- ##
+ ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="40px">&nbsp;&nbsp;***Languages and Tools ...***
+ 
 
 <p align="left"> 
     <a href="https://cplusplus.com/?msclkid=9675ffb1b00711ec8291bc5e9315e7bf" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
