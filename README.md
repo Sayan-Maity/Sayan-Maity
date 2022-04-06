@@ -63,7 +63,7 @@
     </a>
 </p>
 
-## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="40px">&nbsp;&nbsp; My Github Stats
+## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="40px">&nbsp; My Github Stats
 
   <br/>
     <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Sayan Maity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sayan-Maity&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
