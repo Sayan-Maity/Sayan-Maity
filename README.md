@@ -54,6 +54,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
 </p>
 
+
+## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="40px">&nbsp; My Github Stats
+
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 <br/> -->
 
@@ -62,8 +65,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayan Maity's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Maity&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="40px">&nbsp; My Github Stats
 
   <br/>
     <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Sayan Maity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sayan-Maity&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
