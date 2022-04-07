@@ -10,7 +10,7 @@
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently working on a **Special Project**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
+✔ I’m currently learning **ReactJS**, **NodeJS** & **API Integration**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I'm also a **Competitive Programmer**  [Codechef](https://www.codechef.com) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
