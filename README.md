@@ -63,8 +63,13 @@
 <p align="center">
   
   
+  
   [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Sayan-Maity/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhao062&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayan Maity's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Maity&theme=material-palenight&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Maity&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
   
   
     <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
