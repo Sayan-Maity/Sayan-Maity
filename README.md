@@ -64,8 +64,8 @@
   
   
   
-  [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&text_color=5EFF4C&count_private=true&hide=contribs)](https://github.com/Sayan-Maity/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayan-Maity&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=5EFF4C&currStreakNum=5EFF4C)](https://git.io/streak-stats)
+  [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&text_color=5EFF4C&count_private=true&hide=contribs&show_icons=true)](https://github.com/Sayan-Maity/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayan-Maity&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=7EFF75&currStreakNum=7EFF75)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Maity&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
