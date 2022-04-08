@@ -62,22 +62,16 @@
 
 <p align="center">
   
-  
-
-  
-  
-  
     <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayan Maity's streak" src="https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&text_color=99FF89&count_private=true&hide=contribs&show_icons=true"/>
-    </a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayan Maity's streak" src="https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&text_color=99FF89&count_private=true&hide=contribs&show_icons=true"/></a>
 <br/><br/>
     <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Sayan Maity's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Sayan-Maity&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
 <br/><br/>
   <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Sayan Maity's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Maity&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
+  
   </p>
   <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
