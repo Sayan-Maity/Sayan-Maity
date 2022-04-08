@@ -61,7 +61,7 @@
 <br/> -->
 
 <p align="center">
-  
+  [![Yue's github stats](https://github-readme-stats.vercel.app/api?username=yzhao062&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
     <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayan Maity's streak" src="https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&text_color=99FF89&count_private=true&hide=contribs&show_icons=true"/></a>
 <br/><br/>
