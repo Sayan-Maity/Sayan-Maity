@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sayan-Maity/github-readme-activity-graph"><img alt="Sayan Maity's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan-Maity&theme=material-palenight&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sayan-Maity/github-readme-activity-graph"><img alt="Sayan Maity's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan-Maity&bg_color=2A2D3E&color=5BCDEC&line=99FF89&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
