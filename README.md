@@ -82,14 +82,12 @@
 <br/>
 <p align="center">
   <br>
-  <img align="center" width="70%" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+  <img align="center" width="70%" alt="GIF" src="https://cdn.kikinote.net/gallery/kikinote/ea7087c3ebaf5aa7b10b42973739d9ff.gif" />
 
 </p>
-<br><br><br>
-<p align="center">
-  <br>
+<br>
+<br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-</p>
 
 <details align="center">
 
