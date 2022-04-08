@@ -63,7 +63,7 @@
 <p align="center">
   
   
-  [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=yzhao062&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Sayan-Maity/github-readme-stats)
+  [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Sayan-Maity/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhao062&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
