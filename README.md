@@ -77,13 +77,13 @@
 <br/>
 
 <a href="https://github.com/Sayan-Maity/github-readme-activity-graph"><img alt="Sayan Maity's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan-Maity&bg_color=2A2D3E&color=C492E3&line=B78FD6&point=99FF89&hide_border=true" /></a>
+<br/>
 
-<br/>
-<br/>
 <p align="center">
   <br>
   <img align="center" width="70%" alt="GIF" src="https://cdn.kikinote.net/gallery/kikinote/ea7087c3ebaf5aa7b10b42973739d9ff.gif" />
 </p>
+
 <br>
 <br>
 <p align="center">
