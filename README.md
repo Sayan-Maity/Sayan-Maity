@@ -85,6 +85,7 @@
   <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 </p>
+<br><br><br>
 <p align="center">
   <br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
