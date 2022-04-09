@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Pronouns: ***He/His*** or ***TeamMaker*** <br>
 ✔ I’m currently working on a **Special Project**<br>
 ✔ I’m currently learning **ReactJS** <img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">, **NodeJS** <img height="13" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> & **API Integration**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
