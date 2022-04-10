@@ -13,7 +13,7 @@
 ✔ I’m currently learning **ReactJS** <img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">, **NodeJS** <img height="13" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> & **API Integration**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I'm also a **Competitive Programmer**  [Codechef](https://www.codechef.com) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
 📫 How to reach me **sayancr777@gmail.com**<br>
 ⚡ Fun fact **I play games and go to the GYM very often.**<br>
 
