@@ -79,6 +79,21 @@
 <a href="https://github.com/Sayan-Maity/github-readme-activity-graph"><img alt="Sayan Maity's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan-Maity&bg_color=2A2D3E&color=C492E3&line=B78FD6&point=99FF89&hide_border=true" /></a>
 <br/>
 
+
+
+
+<h3 align="left">Coding Activity</h3>
+<details>
+  <summary>Wakatime Stats</summary>
+  <p align="center"> 
+    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/2370f337-07d0-406f-bd59-3ccec17d4f79.svg" height="500" alt="Coding Time" /> 
+    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/3771eb71-3f96-4905-a324-c175b75ec368.svg" height="500" alt="Coding Languages" />
+  </p>
+</details>
+
+
+
+
 <p align="center">
   <br>
   <img align="center" width="70%" alt="GIF" src="https://cdn.kikinote.net/gallery/kikinote/ea7087c3ebaf5aa7b10b42973739d9ff.gif" />
