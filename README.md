@@ -86,8 +86,8 @@
 <details>
   <summary>Wakatime Stats</summary>
   <p align="center"> 
-    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/2370f337-07d0-406f-bd59-3ccec17d4f79.svg" height="500" alt="Coding Time" /> 
-    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/3771eb71-3f96-4905-a324-c175b75ec368.svg" height="500" alt="Coding Languages" />
+    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/2370f337-07d0-406f-bd59-3ccec17d4f79.svg" height="200" alt="Coding Time" /> 
+    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/3771eb71-3f96-4905-a324-c175b75ec368.svg" height="200" alt="Coding Languages" />
   </p>
 </details>
 
