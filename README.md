@@ -100,7 +100,7 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
   
   
-## Let's Connect :coffee:
+## Let's Connect :coffee: ...
 <p align="center">
 	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sayan-maity2003/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="70" alt="LinkedIn"/></a>
