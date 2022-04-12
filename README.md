@@ -99,30 +99,14 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
   
-## Connect with me:
   
+## Let's Connect :coffee:
 <p align="center">
-  <a href = "https://github.com/Sayan-Maity"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  &nbsp; 
-  &nbsp;
-  <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  &nbsp; 
-  &nbsp;
-  <a href = "https://www.instagram.com/sayancr777_official/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  &nbsp;
-  &nbsp;
-  <a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-</p> 
-  
-  
-  
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="200" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sayan-maity2003/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/sayan.maity.7169709"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/sayancr777_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
   
   
