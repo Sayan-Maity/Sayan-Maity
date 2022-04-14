@@ -6,7 +6,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ...***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ..***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker*** <br>
 ✔ I’m currently working on a **Special Project**<br>
