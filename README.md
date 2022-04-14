@@ -133,7 +133,7 @@
 
 ---
 <div align="center">
-:computer: Made with :heart: by Sayan Maity
+:computer: Made with :heart: by Sayan Maityyy
 
 Credits: [Sayan](https://github.com/Sayan-Maity)
 
