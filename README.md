@@ -121,7 +121,7 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" />&nbsp; ***A Joke for You ...***
 <a href="https://github.com/Sayan-Maity/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=Sayan-Maity">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Sayan-Maity?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
