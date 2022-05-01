@@ -53,7 +53,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <imghttps://git-scm.com/ src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
 </p>
 
