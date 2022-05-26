@@ -3,9 +3,6 @@
 </p>
 <h1 align="center" height="19px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sayan this side</h1>
 
-<!-- markdownlint-enable MD033 -->
-
----
 <a href="https://github.com/Sayan-Maity/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sayan-Maity">
 </a>
