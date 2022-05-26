@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sayan this side</h1>
+<h4 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sayan this side</h1>
 <h3 align="center">I'm a passionate Frontend but aspiring Full Stack Developer from India.</h3>
 
 <!-- markdownlint-enable MD033 -->
