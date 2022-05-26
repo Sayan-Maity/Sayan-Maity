@@ -2,6 +2,10 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sayan this side</h1>
+<a href="https://github.com/Sayan-Maity/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sayan-Maity">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Sayan-Maity?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">I'm a passionate Frontend but aspiring Full Stack Developer from India.</h3>
 
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
@@ -119,10 +123,7 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" />&nbsp; ***A Joke for You ...***
 
-<a href="https://github.com/Sayan-Maity/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sayan-Maity">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Sayan-Maity?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <br><br>
 <div align="center">
 <i><----- Keep CALM and always SMILE  😊 -----></i><br><br>
