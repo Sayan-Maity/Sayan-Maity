@@ -108,6 +108,7 @@
 </details>
 
 ## &nbsp; ***Let's Connect :coffee: ...***
+
 <p align="center">
 	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sayan-maity2003/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="70" alt="LinkedIn"/></a>
@@ -115,7 +116,9 @@
 	<a href="https://www.instagram.com/sayancr777_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" width="70" alt="Instagram"/></a>
 	<a href="https://twitter.com/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" width="70" alt="Twitter"/></a>
 </p>
+
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" />&nbsp; ***A Joke for You ...***
+
 <a href="https://github.com/Sayan-Maity/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sayan-Maity">
 </a>
