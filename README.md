@@ -19,7 +19,7 @@
 ✔ I'm also a **Competitive Programmer**  [Codechef](https://www.codechef.com) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
 📫 How to reach me **sayancr777@gmail.com**<br>
-⚡ Fun fact **I play games and go to the GYM very often.**<br>
+⚡ Fun fact **I play games and go to GYM very often.**<br>
 
 ## :headphones: Spotify Playing ...
 
