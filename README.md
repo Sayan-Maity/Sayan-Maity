@@ -101,7 +101,7 @@
 
 <summary> <b> <samp> Light bonfire </samp></b></summary>
 <samp>
- <b><h2 style="color: #fff">B O N F I R E &nbsp; L I T !</h2> </b>
+ <b><h2 style="color: #111">B O N F I R E &nbsp; L I T !</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
   
