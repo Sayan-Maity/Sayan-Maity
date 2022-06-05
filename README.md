@@ -10,7 +10,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ...***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Talking about Personal Stuffs ...***
 
 ✔ I'm a passionate ***Frontend*** but aspiring ***Full Stack Developer*** from India <br>
 ✔ Pronouns: ***He/His*** or ***TeamMaker*** <br>
@@ -28,7 +28,7 @@
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 
- ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="40px">&nbsp;&nbsp;***Languages and Tools ...***
+ ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="40">&nbsp;&nbsp;***Languages and Tools ...***
  
 
 <p align="left"> 
