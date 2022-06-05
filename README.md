@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center" height="19px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, Sayan this side</h1>
+<h1 align="center" height="19px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, Sayan this side</h1>
 
 <a href="https://github.com/Sayan-Maity/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sayan-Maity">
@@ -10,7 +10,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ..***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs ...***
 
 ✔ I'm a passionate ***Frontend*** but aspiring ***Full Stack Developer*** from India <br>
 ✔ Pronouns: ***He/His*** or ***TeamMaker*** <br>
