@@ -27,7 +27,7 @@
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 
- ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="40">&nbsp;&nbsp;***Languages and Tools ...***
+ ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
 
 <p align="left"> 
@@ -60,7 +60,7 @@
 </p>
 
 
-## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="40px">&nbsp; My Github Stats ...
+## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="42px">&nbsp; My Github Stats ...
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 <br/> -->
@@ -109,8 +109,7 @@
 
 </samp>
 </details>
-
-## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="38" />&nbsp; ***Let's Connect :coffee: ...***
+## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; ***Let's Connect :coffee: ...***
 
 <p align="center">
 	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
@@ -119,7 +118,7 @@
 	<a href="https://www.instagram.com/sayancr777_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" width="70" alt="Instagram"/></a>
 </p>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="34" />&nbsp; ***A Joke for You ...***
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38" />&nbsp; ***A Joke for You ...***
 
 
 <br><br>
