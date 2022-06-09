@@ -10,7 +10,7 @@
 
 <img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Talking about Personal Stuffs ..***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Talking about Personal Stuffs ..***
 
 ✔ I'm a passionate ***Frontend*** but aspiring ***Full Stack Developer*** from India <br>
 ✔ Pronouns: ***He/His*** or ***TeamMaker*** <br>
@@ -111,7 +111,7 @@
 </samp>
 </details>
 
-## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="34" />&nbsp; ***Let's Connect :coffee: ...***
+## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="38" />&nbsp; ***Let's Connect :coffee: ...***
 
 <p align="center">
 	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
@@ -120,7 +120,7 @@
 	<a href="https://www.instagram.com/sayancr777_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" width="70" alt="Instagram"/></a>
 </p>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="32" />&nbsp; ***A Joke for You ...***
+## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="34" />&nbsp; ***A Joke for You ...***
 
 
 <br><br>
