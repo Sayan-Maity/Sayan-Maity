@@ -21,7 +21,7 @@
 📫 How to reach me **sayancr777@gmail.com**<br>
 ⚡ Fun fact **I play games and go to GYM very often.**<br>
 
-## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="42">***Spotify Playing :headphones: ...***
+## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="52">***Spotify Playing :headphones: ...***
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
