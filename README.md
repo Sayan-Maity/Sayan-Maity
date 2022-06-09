@@ -111,7 +111,7 @@
 </samp>
 </details>
 
-## <img src="https://media2.giphy.com/media/xUA7b0YUzS7j22ySti/200w.webp?cid=ecf05e47hdmqk0bpt4c6v45lbe1xutf9eauw6bt973tyspzn&rid=200w.webp&ct=g" width="28" />&nbsp; ***Let's Connect :coffee: ...***
+## <img src="https://media1.giphy.com/media/l3974IpNKK1m6NPoc/200w.webp?cid=ecf05e47wun36a5qmy6b3k51lxgiy8idlblyowb12abxzocn&rid=200w.webp&ct=g" width="28" />&nbsp; ***Let's Connect :coffee: ...***
 
 <p align="center">
 	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
