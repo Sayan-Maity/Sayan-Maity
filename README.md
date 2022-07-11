@@ -14,7 +14,7 @@
 
 ✔ I'm a passionate ***Frontend*** but aspiring ***Full Stack Developer*** from India <br>
 ✔ Pronouns: ***He/His*** or ***TeamMaker*** <br>
-✔ I’m currently learning **ReactJS** <img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">, **NodeJS** <img height="13" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> & **API Integration**<br>
+✔ I’m <span style="color: green"> currently </span> learning **ReactJS** <img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">, **NodeJS** <img height="13" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> & **API Integration**<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ I'm also a **Competitive Programmer**  [Codechef](https://www.codechef.com) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
