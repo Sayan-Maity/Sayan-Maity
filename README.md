@@ -3,10 +3,15 @@
 </p>
 <h1 align="center" height="19px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="37">, Sayan this side</h1>
 
-<a href="https://github.com/Sayan-Maity/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sayan-Maity">
+<p align="left">
+<a href="https://github.com/Sayan-Maity?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/felpfsf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Sayan-Maity?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Sayan-Maity?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/felpfsf?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+<img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Sayan-Maity&style=for-the-badge&color=blue"/>
+</p>
 
 <img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
@@ -138,5 +143,5 @@ Credits: [Sayan](https://github.com/Sayan-Maity)
 You can Support me by buying me a coffee :)
 <p align = "center"><a href="https://www.buymeacoffee.com/sayancr777"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 	
-Last Edited on: 06/04/2022
+Last Edited on: 08/02/2023
 </div>
