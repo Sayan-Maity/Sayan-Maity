@@ -86,7 +86,7 @@
 
 <a href="https://github.com/Sayan-Maity/github-readme-activity-graph"><img alt="Sayan Maity's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan-Maity&bg_color=2A2D3E&color=C492E3&line=B78FD6&point=99FF89&hide_border=true" /></a>
 <br/>
-
+![Sayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sayan-Maity&theme=react-dark)
 
 
 <p align="center">
