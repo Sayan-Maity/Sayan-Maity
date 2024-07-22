@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Work Experience***
 
-* Ex - Frontend Developer Intern at ***Zappit.AI***. <br>
+* Ex - Frontend Developer Intern at **Zappit.AI**. <br>
 * Ex - Teaching Assistant at ***BeyondKlasses***. <br>
 * Ex - Frontend Developer Intern at ***Katalis.AI***. <br>
 * Ex - Associate Frontend Developer Intern at ***Taiyo.AI***. <br>
