@@ -49,6 +49,9 @@
 
 ## 🎯 Tech Stack
 * [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=13)](https://skillicons.dev)
+<p align="center">
+  <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Sayan Maity's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Maity&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
+</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
@@ -101,18 +104,13 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 <br/> -->
 
-<p align="center">
-  <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Sayan Maity's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Maity&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
-</p>
+
 
 ---
 <div align="center">
 :computer: Made with :heart: by Sayan Maity
 
-Credits: [Sayan](https://github.com/Sayan-Maity)
-
 You can Support me by buying me a coffee :)
 <p align = "center"><a href="https://www.buymeacoffee.com/sayancr777"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 	
-Last Edited on: 08/02/2023
 </div>
