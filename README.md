@@ -50,12 +50,12 @@
 ## <img src="https://media0.giphy.com/media/kAm4u0lhDCmXnugz6p/200.webp?cid=ecf05e47h24ev10qtfvziw5ene5acs9y3znt7pbc9bfhuhkk&ep=v1_stickers_search&rid=200.webp&ct=ts" width="34">&nbsp; Languages & Tech Stack
 * [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=13)](https://skillicons.dev)
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NwNWpqamZ2cnFucHFxZ2UwMzc4YWxnbjNubjNvdWdnMWVoM2dvbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yFAuYYi9LYQNI8lmZo/giphy.webp" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
 * [CAEHS](https://www.caehs.in/) - My primary and seconday education lies here (std-2 to std-12)
 * [HMES](https://howardmemorialschool.com/) - Mostly my nursery time (Prep, KG, Std-1)
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Social Links**
+## <img src="https://media1.giphy.com/media/ghvIo7W8i5cxIWcpJV/giphy.webp?cid=790b7611eeb8xmsurnvbfv8utin2h1dtkcbotdpdmohlbqyg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Social Links**
 * [Portfolio](https://github.com/Sayan-Maity/Derma-Prediction) - My personal Portfolio website.
 * [Linkedin](https://github.com/Sayan-Maity/Derma-Prediction) - Connect with me here (more than **12K+ connections**).
 * [Github](https://github.com/Sayan-Maity/SheRise) - My wholesome coding Journey.
