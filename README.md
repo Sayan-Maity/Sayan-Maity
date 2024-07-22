@@ -19,15 +19,15 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Work Experience***
 
-* Former Frontend Developer Intern at ***Zappit.AI***. <br>
-* Former Teaching Assistant at ***BeyondKlasses***. <br>
+* Ex - Frontend Developer Intern at ***Zappit.AI***. <br>
+* Ex - Teaching Assistant at ***BeyondKlasses***. <br>
 * Ex - Frontend Developer Intern at ***Katalis.AI***. <br>
 * Ex - Associate Frontend Developer Intern at ***Taiyo.AI***. <br>
-* Frontend Web Developer Intern at ***Stock Regsiter***. <br>
-* Assocoiate Software Developer Intern at ***Listnr.AI***. <br>
-* Teaching Assistant at ***Desi QnA***. <br>
-* Full Stack Developer Intern at ***Connectlink***. <br>
-* Frontend Developer Intern at ***Lifense Software Labs***. <br>
+* Ex - Frontend Web Developer Intern at ***Stock Regsiter***. <br>
+* Ex - Assocoiate Software Developer Intern at ***Listnr.AI***. <br>
+* Ex - Teaching Assistant at ***Desi QnA***. <br>
+* Ex - Full Stack Developer Intern at ***Connectlink***. <br>
+* Ex - Frontend Developer Intern at ***Lifense Software Labs***. <br>
 
  ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
