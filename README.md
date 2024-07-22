@@ -35,7 +35,7 @@
 * Ex - Full Stack Developer Intern at **Connectlink**. 
 * Ex - Frontend Developer Intern at **Lifense Software Labs**. 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Projects**
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpzcHBsY2NkOThvMTZsYXJoYms5OXg2Z211ZG9yYzFld2VqMGdnZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1fkd6ZyVpsVB4a3VsO/giphy.webp" width="34">&nbsp;**Projects**
 * [Dermify.AI](https://github.com/Sayan-Maity/Derma-Prediction) - An AI powered platform harnessing the power of ML and Google's Gemini LLM to detect Skin Disease.
 * [SheRise](https://github.com/Sayan-Maity/SheRise) - A women centric job recruiting platform with OpenAI's GPT 3.5 LLM personal assiatance to individuals.
 * [Watcho](https://github.com/Sayan-Maity/Watcho) - A platform which provides all the information of the upcoming and old movies according to users need.
