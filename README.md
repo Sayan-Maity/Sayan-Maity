@@ -14,6 +14,7 @@
 	I am a Tech and Coding enthusiast and a Software Developer based out in Kolkata, India. I am currently pursuing my Bachelor of Technology degree in Computer Science and Engineering. Besides this I love binging Netflix and travelling a lot.
 </p>
 
+<br/><br/>
 <p align="center" display="flex" flexDirection="row">
   <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayan Maity's streak" src="https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/>
