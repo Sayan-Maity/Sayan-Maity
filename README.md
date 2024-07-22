@@ -47,6 +47,9 @@
 * Certificate - Secured **2nd rank** in intraclass Coding Competition @Hack Coders in our college UEM (600+ students)
 * [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank **4888th** in Google Kickstart 2022 Round D competition (21K+ participants )
 
+## 🎯 Tech Stack
+* [![My Skills](https://skillicons.dev/icons?i=,cpp,javascript,typescript,html,css,react,nextjs,nodejs,expressjs,mongodb,mysql,aws,git,postman,figma,tailwind,cloudflare,gcp,vercel,docker&perline=15)](https://skillicons.dev)
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
 * [CAEHS](https://www.caehs.in/) - My primary and seconday education lies here (std-2 to std-12)
