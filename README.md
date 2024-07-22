@@ -15,23 +15,28 @@
 </p>
 
 
-<img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Work Experience***
 
-* Ex - Frontend Developer Intern at **Zappit.AI**. <br>
-* Ex - Teaching Assistant at **BeyondKlasses**. <br>
-* Ex - Frontend Developer Intern at **Katalis.AI**. <br>
-* Ex - Associate Frontend Developer Intern at **Taiyo.AI**. <br>
-* Ex - Frontend Web Developer Intern at **Stock Regsiter**. <br>
-* Ex - Assocoiate Software Developer Intern at **Listnr.AI**. <br>
-* Ex - Teaching Assistant at **Desi QnA**. <br>
-* Ex - Full Stack Developer Intern at **Connectlink**. <br>
-* Ex - Frontend Developer Intern at **Lifense Software Labs**. <br>
+* Ex - Frontend Developer Intern at **Zappit.AI**. 
+* Ex - Teaching Assistant at **BeyondKlasses**. 
+* Ex - Frontend Developer Intern at **Katalis.AI**. 
+* Ex - Associate Frontend Developer Intern at **Taiyo.AI**. 
+* Ex - Frontend Web Developer Intern at **Stock Regsiter**. 
+* Ex - Assocoiate Software Developer Intern at **Listnr.AI**. 
+* Ex - Teaching Assistant at **Desi QnA**. 
+* Ex - Full Stack Developer Intern at **Connectlink**. 
+* Ex - Frontend Developer Intern at **Lifense Software Labs**. 
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Projects***
+
+#### 🛠️ Relevant Projects
+* [Dermify.AI](https://github.com/Sayan-Maity/Derma-Prediction) - A AI powered application which harnesses the power of image processing and Google's Gemini LLM to detect Skin Disease.
+* [SheRise](https://github.com/Sayan-Maity/SheRise) - A women centric job recruiting platform with OpenAI's GPT 3.5 LLM personal assiatance to individuals.
+* [Watcho](https://github.com/Sayan-Maity/Watcho) - A platform which provides all the information of the upcoming and old movies according to users need.
+* [Sleep Well](https://github.com/Sayan-Maity/Sleep-Well) - A web app playing relaxing BGM sounds to help users sleep well.
 
  ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
-
 <p align="left"> 
     <a href="https://cplusplus.com/?msclkid=9675ffb1b00711ec8291bc5e9315e7bf" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 	<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png" width="40"/> </a>
