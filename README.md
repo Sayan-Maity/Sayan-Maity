@@ -64,11 +64,14 @@
 * [Medium](https://github.com/Sayan-Maity/Derma-Prediction) - Read my techical blogs here.
 * [Instagram](https://www.instagram.com/sayancr777_/) - See the real me, outsite the coding world.
 
----
 <div align="center">
-:computer: Made with :heart: by Sayan Maity
-
-You can Support me by buying me a coffee :)
-<p align = "center"><a href="https://www.buymeacoffee.com/sayancr777"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+  <br/>
+  <p align = "center">
+    <a href="https://www.buymeacoffee.com/sayancr777"> 
+	<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" />
+    </a>
+  </p>
+  <br/>
+  You can Support me by buying me a coffee :)
 	
 </div>
