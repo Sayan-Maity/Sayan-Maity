@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center" height="19px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="37">, I'm Sayan!</h1>
+<h1 align="center" height="19px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="37">Ciao, I'm Sayan!</h1>
 
 <p align="left">
 <a href="https://github.com/Sayan-Maity?tab=followers">
