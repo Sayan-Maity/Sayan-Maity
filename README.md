@@ -39,6 +39,7 @@
 * [Twitter](https://github.com/Sayan-Maity/Watcho) - Inactive, but opens up sometimes.
 * [Gmail](https://github.com/Sayan-Maity/Sleep-Well) - Just send me a mail here!
 * [Medium](https://github.com/Sayan-Maity/Derma-Prediction) - Read my techical blogs here.
+* [Instagram](https://www.instagram.com/sayancr777_/) - See the real me, outsite the coding world.
 
  ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
