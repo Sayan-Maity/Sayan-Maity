@@ -36,7 +36,7 @@
 * [Certificate](https://drive.google.com/file/d/1h5U7AGL2P3hVvZrTnNn_MtjAPoCsGqXy/view) - Won the **Best-AI hack** title in the Diversion hackathon organized by @ACM-IEM (600+ participants).
 * [Certificate](https://drive.google.com/file/d/1KhpEVulty430_LbtwdGf84HEC7oD2q9x/view) - Secured **3rd position** at Interrupt Innovate Iterate hackathon by @IIIT Allahabad (500+ participants).
 * Certificate - Secured **2nd rank** in intraclass Coding Competition @Hack Coders in our college UEM (600+ students)
-* [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank 4888th in Google Kickstart 2022 Round D competition (21K+ participants )
+* [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank **4888th** in Google Kickstart 2022 Round D competition (21K+ participants )
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
