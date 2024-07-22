@@ -17,20 +17,17 @@
 
 <img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***About Me ...***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Work Experience***
 
-✔ I'm a passionate ***Frontend*** but aspiring ***Full Stack Developer*** from India <br>
-✔ I’m currently learning **ReactJS** <img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">, **NodeJS** <img height="13" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> & **API Integration**<br>
-✔ I’m looking to collaborate with any **Open - Source projects**<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
-📫 How to reach me **sayancr777@gmail.com**<br>
-⚡ **I play games and go to GYM very often.**<br>
-## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="60">***Spotify Playing :headphones: ...***
-
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
-
+* Frontend Developer Intern at ***Zappit.AI***. <br>
+* Teaching Assistant at ***BeyondKlasses***. <br>
+* Frontend Developer Intern at ***Katalis.AI***. <br>
+* Associate Frontend Developer Intern at ***Taiyo.AI***. <br>
+* Frontend Web Developer Intern at ***Stock Regsiter***. <br>
+* Assocoiate Software Developer Intern at ***Listnr.AI***. <br>
+* Teaching Assistant at ***Desi QnA***. <br>
+* Full Stack Developer Intern at ***Connectlink***. <br>
+* Frontend Developer Intern at ***Lifense Software Labs***. <br>
 
  ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
