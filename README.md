@@ -48,7 +48,7 @@
 * [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank **4888th** in Google Kickstart 2022 Round D competition (21K+ participants )
 
 ## 🎯 Tech Stack
-* [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=15)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=13)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
