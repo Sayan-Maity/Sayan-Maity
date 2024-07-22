@@ -47,11 +47,8 @@
 * Certificate - Secured **2nd rank** in intraclass Coding Competition @Hack Coders in our college UEM (600+ students)
 * [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank **4888th** in Google Kickstart 2022 Round D competition (21K+ participants )
 
-## 🎯 Tech Stack
+## 🎯 Languages & Tech Stack
 * [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=13)](https://skillicons.dev)
-<p align="center">
-  <a href="https://github.com/Sayan-Maity/github-readme-stats"><img alt="Sayan Maity's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Maity&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
-</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
@@ -66,38 +63,6 @@
 * [Gmail](https://github.com/Sayan-Maity/Sleep-Well) - Just send me a mail here!
 * [Medium](https://github.com/Sayan-Maity/Derma-Prediction) - Read my techical blogs here.
 * [Instagram](https://www.instagram.com/sayancr777_/) - See the real me, outsite the coding world.
-
- ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
- 
-<p align="left"> 
-    <a href="https://cplusplus.com/?msclkid=9675ffb1b00711ec8291bc5e9315e7bf" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-	<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png" width="40"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-    <a href="https://pugjs.org" target="_blank"> <img src="https://img.icons8.com/dotty/80/fa314a/pug.png" alt="pug" width="40" height="40"/> </a> 
-    <a href="https://pugjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
-    <a href="https://pugjs.org" target="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/canva-app.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
-    <a href="https://www.netlify.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" width="40"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
-    <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
-    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
-</p>
-
 
 ---
 <div align="center">
