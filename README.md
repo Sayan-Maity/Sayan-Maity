@@ -19,10 +19,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Work Experience***
 
-* Frontend Developer Intern at ***Zappit.AI***. <br>
-* Teaching Assistant at ***BeyondKlasses***. <br>
-* Frontend Developer Intern at ***Katalis.AI***. <br>
-* Associate Frontend Developer Intern at ***Taiyo.AI***. <br>
+* Former Frontend Developer Intern at ***Zappit.AI***. <br>
+* Former Teaching Assistant at ***BeyondKlasses***. <br>
+* Ex - Frontend Developer Intern at ***Katalis.AI***. <br>
+* Ex - Associate Frontend Developer Intern at ***Taiyo.AI***. <br>
 * Frontend Web Developer Intern at ***Stock Regsiter***. <br>
 * Assocoiate Software Developer Intern at ***Listnr.AI***. <br>
 * Teaching Assistant at ***Desi QnA***. <br>
