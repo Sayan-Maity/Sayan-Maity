@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D5616AQFXItKmY2WiHA/profile-displaybackgroundimage-shrink_350_1400/0/1693599519349?e=1727308800&v=beta&t=LNglxvB77y7fh8GuX-MlKcpLdL3m7n8tqBLx3XhNlV8" height="200"/>
 </p
-<p align="left">
+<p align="left" display="flex" flexDirection="row">
+	<a href="https://github.com/Sayan-Maity?tab=repositories&sort=stargazers">
+	  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sayan-Maity?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+	</a>
 	<a>
 	  <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Sayan-Maity&style=for-the-badge&color=blue"/>
-	</a>
- 	<a href="https://github.com/Sayan-Maity?tab=repositories&sort=stargazers">
-	  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sayan-Maity?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 	</a>
 </p>
 <h1 align="center" height="19px" gap="1rem"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY4amViYzZnZnVjMmRmdmZ3em5oeGx4bHRodGk3M2d1MDdva3lhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SJPm2gTThP43WIwyI4/giphy.webp" width="37"> Ciao, I'm Sayan!</h1>
