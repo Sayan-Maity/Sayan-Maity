@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center" height="19px"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY4amViYzZnZnVjMmRmdmZ3em5oeGx4bHRodGk3M2d1MDdva3lhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SJPm2gTThP43WIwyI4/giphy.webp" width="37">Ciao, I'm Sayan!</h1>
+<h1 align="center" height="19px" gap="1rem"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY4amViYzZnZnVjMmRmdmZ3em5oeGx4bHRodGk3M2d1MDdva3lhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SJPm2gTThP43WIwyI4/giphy.webp" width="37"> Ciao, I'm Sayan!</h1>
 
 <p align="left">
 <a href="https://github.com/Sayan-Maity?tab=followers">
