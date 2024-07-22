@@ -32,6 +32,12 @@
 * [Watcho](https://github.com/Sayan-Maity/Watcho) - A platform which provides all the information of the upcoming and old movies according to users need.
 * [Sleep Well](https://github.com/Sayan-Maity/Sleep-Well) - A web app playing relaxing BGM sounds to help users sleep well.
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Achievements**
+* [Certificate](https://drive.google.com/file/d/1h5U7AGL2P3hVvZrTnNn_MtjAPoCsGqXy/view) - Won the **Best-AI hack** title in the Diversion hackathon organized by @ACM-IEM (600+ participants).
+* [Certificate](https://drive.google.com/file/d/1KhpEVulty430_LbtwdGf84HEC7oD2q9x/view) - Secured **3rd position** at Interrupt Innovate Iterate hackathon by @IIIT Allahabad (500+ participants).
+* Certificate - Secured **2nd rank** in intraclass Coding Competition @Hack Coders in our college UEM (600+ students)
+* [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank 4888th in Google Kickstart 2022 Round D competition (21K+ participants )
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
 * [CAEHS](https://www.caehs.in/) - My primary and seconday education lies here (std-2 to std-12)
@@ -100,46 +106,6 @@
 <br/>
 
 
-![Sayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sayan-Maity&bg_color=2A2D3E&color=C492E3&line=B78FD6&point=99FF89&hide_border=true)
-
-
-<p align="center">
-  <br>
-  <img align="center" width="70%" alt="GIF" src="https://cdn.kikinote.net/gallery/kikinote/ea7087c3ebaf5aa7b10b42973739d9ff.gif" />
-</p>
-
-<br>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-</p>
-<details align="center">
-
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #111">B O N F I R E &nbsp; L I T !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-  
-  
-  
-
-</samp>
-</details>
-
-## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; ***Let's Connect :coffee: ...***
-
-<p align="center">
-	<a href="https://github.com/Sayan-Maity"><img src="https://img.icons8.com/bubbles/50/000000/github.png" width="70" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sayan-maity2003/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="70" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/sayan.maity.7169709"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" width="70" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/sayancr777_official/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" width="70" alt="Instagram"/></a>
-</p>
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38" />&nbsp; ***A Joke for You ...***
-
-
-<br><br>
 <div align="center">
 <i><----- Keep CALM and always SMILE  😊 -----></i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
