@@ -47,7 +47,7 @@
 * Certificate - Secured **2nd rank** in intraclass Coding Competition @Hack Coders in our college UEM (600+ students)
 * [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank **4888th** in Google Kickstart 2022 Round D competition (21K+ participants )
 
-## 🎯 Languages & Tech Stack
+## <img src="https://media0.giphy.com/media/kAm4u0lhDCmXnugz6p/200.webp?cid=ecf05e47h24ev10qtfvziw5ene5acs9y3znt7pbc9bfhuhkk&ep=v1_stickers_search&rid=200.webp&ct=ts" width="34">&nbsp; Languages & Tech Stack
 * [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=13)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Education**
