@@ -71,6 +71,6 @@
 	<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" />
     </a>
   </p>
-  You can Support me by buying me a coffee :)
+  <p>Support me by buying me a coffee 🙂</p>
 	
 </div>
