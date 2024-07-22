@@ -30,7 +30,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;***Projects***
 
 #### 🛠️ Relevant Projects
-* [Dermify.AI](https://github.com/Sayan-Maity/Derma-Prediction) - A AI powered application which harnesses the power of image processing and Google's Gemini LLM to detect Skin Disease.
+* [Dermify.AI](https://github.com/Sayan-Maity/Derma-Prediction) - An AI powered platform harnessing the power of ML and Google's Gemini LLM to detect Skin Disease.
 * [SheRise](https://github.com/Sayan-Maity/SheRise) - A women centric job recruiting platform with OpenAI's GPT 3.5 LLM personal assiatance to individuals.
 * [Watcho](https://github.com/Sayan-Maity/Watcho) - A platform which provides all the information of the upcoming and old movies according to users need.
 * [Sleep Well](https://github.com/Sayan-Maity/Sleep-Well) - A web app playing relaxing BGM sounds to help users sleep well.
