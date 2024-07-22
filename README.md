@@ -10,7 +10,9 @@
 	</a>
 </p>
 <h1 align="center" height="19px" gap="1rem"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY4amViYzZnZnVjMmRmdmZ3em5oeGx4bHRodGk3M2d1MDdva3lhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SJPm2gTThP43WIwyI4/giphy.webp" width="37"> Ciao, I'm Sayan!</h1>
-
+<p>
+	I am a Tech and Coding enthusiast and a Software Developer based in Kolkata, India. I am currently pursuing my Bachelor of Engineering degree in Computer Science and Engineering. Besides this I love binging Netflix and travelling a lot.
+</p>
 
 
 <img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
