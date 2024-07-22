@@ -32,6 +32,14 @@
 * [Watcho](https://github.com/Sayan-Maity/Watcho) - A platform which provides all the information of the upcoming and old movies according to users need.
 * [Sleep Well](https://github.com/Sayan-Maity/Sleep-Well) - A web app playing relaxing BGM sounds to help users sleep well.
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;**Social Links**
+* [Portfolio](https://github.com/Sayan-Maity/Derma-Prediction) - My personal Portfolio website.
+* [Linkedin](https://github.com/Sayan-Maity/Derma-Prediction) - Connect with me here (more than **12K+ connections**).
+* [Github](https://github.com/Sayan-Maity/SheRise) - My wholesome coding Journey.
+* [Twitter](https://github.com/Sayan-Maity/Watcho) - Inactive, but opens up sometimes.
+* [Gmail](https://github.com/Sayan-Maity/Sleep-Well) - Just send me a mail here!
+* [Medium](https://github.com/Sayan-Maity/Derma-Prediction) - Read my techical blogs here.
+
  ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
 <p align="left"> 
