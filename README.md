@@ -62,7 +62,7 @@
 * 🥇 Got the Gold medal in Sub-Division for ShotPut (100+ participants) 
 * 🥇 Got Gold medal for representing School in Intro School Football Competition.
 * 🥇 Got multiple prizes in securing First position in Drawing competitions.
-* 🥉 I have secured 3rd position in school level in our maths Olympiad exam.
+* 🥉 Secured 3rd position in school level in our maths Olympiad exam.
 
 ## <img src="https://media1.giphy.com/media/ghvIo7W8i5cxIWcpJV/giphy.webp?cid=790b7611eeb8xmsurnvbfv8utin2h1dtkcbotdpdmohlbqyg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Social Links**
 * [Portfolio](https://github.com/Sayan-Maity/Derma-Prediction) - My personal Portfolio website.
