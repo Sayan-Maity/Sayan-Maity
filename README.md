@@ -48,7 +48,7 @@
 * [Certificate](https://drive.google.com/file/d/1GnLOEoxs-Y2uB6emKkXTjW60UCyXjIl3/view) - Secured Global rank **4888th** in Google Kickstart 2022 Round D competition (21K+ participants )
 
 ## <img src="https://media0.giphy.com/media/kAm4u0lhDCmXnugz6p/200.webp?cid=ecf05e47h24ev10qtfvziw5ene5acs9y3znt7pbc9bfhuhkk&ep=v1_stickers_search&rid=200.webp&ct=ts" width="34">&nbsp; Languages & Tech Stack
-* [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=13)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=cpp,java,javascript,typescript,figma,html,css,react,redux,nextjs,tailwind,materialui,sass,gatsby,nodejs,expressjs,mongodb,mysql,redis,jest,postman,git,github,gitlab,bitbucket,notion,aws,cloudflare,gcp,vercel,docker&perline=13)](https://skillicons.dev)
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NwNWpqamZ2cnFucHFxZ2UwMzc4YWxnbjNubjNvdWdnMWVoM2dvbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yFAuYYi9LYQNI8lmZo/giphy.webp" width="34">&nbsp;**Education**
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
