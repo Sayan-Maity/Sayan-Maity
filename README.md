@@ -57,9 +57,9 @@
 * 
 
 ## <img src="https://media2.giphy.com/media/9b6eDiL0W1aBD8Qk3U/200.webp?cid=790b7611196jkheuwu2t1qzuz9f3wjqow2zxyp1zvvjc4z44&ep=v1_stickers_search&rid=200.webp&ct=s" width="34">&nbsp;**Extra Curriculum**
-* 🥈 Got a silver medal in the Sub-division level for Discuss Throw among 80+ participants and presented my school after qualifying for Division level.
+* 🥈 Got the silver medal in the Sub-division level for Discuss Throw (80+ participants), qualifying for Division level.
 * 🥈 Got the Silver medal in the Division level of Javelin throw, got a chance to participate in the district level too.
-* 🥇 Got the Gold medal in Sub-Division for ShotPut among 100+ participants but due to some communication problems couldn't reach up to the place for the Division level . Anyways presented my School there.
+* 🥇 Got the Gold medal in Sub-Division for ShotPut (100+ participants) 
 * 🥇 Got Gold medal for representing School in Intro School Football Competition.
 * 🥇 Got multiple prizes in securing First position in Drawing competitions.
 * 🥉 I have secured 3rd position in school level in our maths Olympiad exam.
