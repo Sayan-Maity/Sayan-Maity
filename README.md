@@ -63,7 +63,7 @@
 * 🥇 Got multiple prizes in securing First position in **Drawing** competitions.
 * 🥉 Secured 3rd position in school level in our **Maths Olympiad** exam.
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhmNmlhdmU4NndiN3A5dzlibzl4M2w2ZnhnNTFyamM3eW1mZHJvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/TWWWc4QiidwvlevkN2/giphy.webp" width="34">&nbsp;**Hobbies**
+## <img src="https://media3.giphy.com/media/hRCs4SGk6dS6rJoE7x/giphy.webp?cid=ecf05e47crftv5x6j81xe2i0hq2uw5m35y9eu8w5japvdzin&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Hobbies**
 * Loves travelling
 * Watching movies and Hindi/English series too
 * Listening to self-development audio-books
