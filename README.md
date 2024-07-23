@@ -54,7 +54,6 @@
 * [UEM](https://uem.edu.in/uem-kolkata/) - My whole 4 years of college life (Btech-CSE, 1st yr to 4th yr)
 * [CAEHS](https://www.caehs.in/) - My primary and seconday education lies here (std-2 to std-12)
 * [HMES](https://howardmemorialschool.com/) - Mostly my nursery time (Prep, KG, Std-1)
-* 
 
 ## <img src="https://media2.giphy.com/media/9b6eDiL0W1aBD8Qk3U/200.webp?cid=790b7611196jkheuwu2t1qzuz9f3wjqow2zxyp1zvvjc4z44&ep=v1_stickers_search&rid=200.webp&ct=s" width="34">&nbsp;**Extra Curriculum**
 * 🥈 Got the silver medal in the Sub-division level for **Discuss Throw** (80+ participants), qualifying for Division level.
@@ -63,6 +62,13 @@
 * 🥇 Got Gold medal for representing School in Intro School **Football** Competition.
 * 🥇 Got multiple prizes in securing First position in **Drawing** competitions.
 * 🥉 Secured 3rd position in school level in our **Maths Olympiad** exam.
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhmNmlhdmU4NndiN3A5dzlibzl4M2w2ZnhnNTFyamM3eW1mZHJvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/TWWWc4QiidwvlevkN2/giphy.webp" width="34">&nbsp;**Hobbies**
+* Loves travelling
+* Watching movies and Hindi/English series too
+* Listening to self-development audio-books
+* Hitting the gym often
+* Outdoor activities like cycling and football
 
 ## <img src="https://media1.giphy.com/media/ghvIo7W8i5cxIWcpJV/giphy.webp?cid=790b7611eeb8xmsurnvbfv8utin2h1dtkcbotdpdmohlbqyg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Social Links**
 * [Portfolio](https://github.com/Sayan-Maity/Derma-Prediction) - My personal Portfolio website.
