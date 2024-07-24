@@ -59,7 +59,7 @@
 * 🥈 Got the silver medal in the Sub-division level for **Discuss Throw** (80+ participants), qualifying for Division level.
 * 🥈 Got the Silver medal in the Division level of **Javelin throw**, got a chance to participate in the district level too.
 * 🥇 Got the Gold medal in Sub-Division for **ShotPut** (100+ participants) 
-* 🥇 Got Gold medal for representing School in Intro School **Football** Competition.
+* 🥇 Got Gold medal for winning the Inter School **Football** Competition in 2K18.
 * 🥇 Got multiple prizes in securing First position in **Drawing** competitions.
 * 🥉 Secured 3rd position in school level in our **Maths Olympiad** exam.
 
