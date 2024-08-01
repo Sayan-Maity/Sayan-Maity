@@ -72,7 +72,7 @@
 
 ## <img src="https://media1.giphy.com/media/ghvIo7W8i5cxIWcpJV/giphy.webp?cid=790b7611eeb8xmsurnvbfv8utin2h1dtkcbotdpdmohlbqyg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Social Links**
 * [Portfolio](https://github.com/Sayan-Maity/Derma-Prediction) - My personal Portfolio website.
-* [Linkedin](https://github.com/Sayan-Maity/Derma-Prediction) - Connect with me here (more than **12K+ connections**).
+* [Linkedin](https://github.com/Sayan-Maity/Derma-Prediction) - Connect with me here (**12K+ connections**).
 * [Github](https://github.com/Sayan-Maity/SheRise) - My wholesome coding Journey.
 * [Twitter](https://github.com/Sayan-Maity/Watcho) - Inactive, but opens up sometimes.
 * [Gmail](https://github.com/Sayan-Maity/Sleep-Well) - Just send me a mail here!
