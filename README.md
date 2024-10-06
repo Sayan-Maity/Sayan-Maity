@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQFXItKmY2WiHA/profile-displaybackgroundimage-shrink_350_1400/0/1693599519349?e=1727308800&v=beta&t=LNglxvB77y7fh8GuX-MlKcpLdL3m7n8tqBLx3XhNlV8" height="200"/>
+  <img src="https://media.licdn.com/dms/image/D5616AQFXItKmY2WiHA/profile-displaybackgroundimage-shrink_350_1400/0/1693599519349?e=1727308800&v=beta&t=LNglxvB77y7fh8GuX-MlKcpLdL3m7n8tqBLx3XhNlV8" alt="profile-banner" height="200"/>
 </p
 <p align="left" display="flex" flexDirection="row">
 	<a href="https://github.com/Sayan-Maity?tab=repositories&sort=stargazers">
