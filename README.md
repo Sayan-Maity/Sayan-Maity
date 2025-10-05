@@ -25,7 +25,7 @@
 </p>
 
 ## <img src="https://media1.giphy.com/media/WmuxJs4o8SvVeuH95p/giphy.webp?cid=ecf05e478xpiq1n0ag1xeig9rfghe1m5n1xnok1wpjpn7epv&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Work Experience**
-* SDE at **Zamp
+* SDE at **Zamp**
 * Ex - SWE Intern at **Catalog**. 
 * Ex - Frontend Developer Intern at **Zappit.AI**. 
 * Ex - Teaching Assistant at **BeyondKlasses**. 
