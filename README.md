@@ -71,13 +71,11 @@
 * Outdoor activities like cycling and football
 
 ## <img src="https://media1.giphy.com/media/ghvIo7W8i5cxIWcpJV/giphy.webp?cid=790b7611eeb8xmsurnvbfv8utin2h1dtkcbotdpdmohlbqyg&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Social Links**
-* [Portfolio](https://github.com/Sayan-Maity/Derma-Prediction) - My personal Portfolio website.
-* [Linkedin](https://github.com/Sayan-Maity/Derma-Prediction) - Connect with me here (**12K+ connections**).
-* [Github](https://github.com/Sayan-Maity/SheRise) - My wholesome coding Journey.
-* [Twitter](https://github.com/Sayan-Maity/Watcho) - Inactive, but opens up sometimes.
-* [Gmail](https://github.com/Sayan-Maity/Sleep-Well) - Just send me a mail here!
-* [Medium](https://github.com/Sayan-Maity/Derma-Prediction) - Read my techical blogs here.
-* [Instagram](https://www.instagram.com/sayancr777_/) - See the real me, outsite the coding world.
+* [Portfolio](https://sayanmaity.in/) - My personal Portfolio website.
+* [Linkedin](https://www.linkedin.com/in/sayan-maity-cr7/) - Connect with me here (**12K+ connections**).
+* [Gmail](mailto:sayancr777@gmaill.com) - Just send me a mail here!
+* [Medium](https://medium.com/@sayancr777) - Read my techical blogs here.
+* [Instagram](https://www.instagram.com/sayan.liftss_/) - See the real me, outsite the coding world.
 
 <div align="center">
   <br/><br/><br/><br/>
