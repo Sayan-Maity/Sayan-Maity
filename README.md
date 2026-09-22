@@ -26,7 +26,7 @@
 
 ## <img src="https://media1.giphy.com/media/WmuxJs4o8SvVeuH95p/giphy.webp?cid=ecf05e478xpiq1n0ag1xeig9rfghe1m5n1xnok1wpjpn7epv&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="34">&nbsp;**Work Experience**
 * SDE at **Zamp**
-* Ex - SWE Intern at **Catalog**. 
+* Ex - SWE Intern at **Hashira**. 
 * Ex - Frontend Developer Intern at **Zappit.AI**. 
 * Ex - Teaching Assistant at **BeyondKlasses**. 
 * Ex - Frontend Developer Intern at **Katalis.AI**. 
@@ -34,8 +34,6 @@
 * Ex - Frontend Web Developer Intern at **Stock Regsiter**. 
 * Ex - Assocoiate Software Developer Intern at **Listnr.AI**. 
 * Ex - Teaching Assistant at **Desi QnA**. 
-* Ex - Full Stack Developer Intern at **Connectlink**. 
-* Ex - Frontend Developer Intern at **Lifense Software Labs**. 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpzcHBsY2NkOThvMTZsYXJoYms5OXg2Z211ZG9yYzFld2VqMGdnZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1fkd6ZyVpsVB4a3VsO/giphy.webp" width="34">&nbsp;**Projects**
 * [Dermify.AI](https://github.com/Sayan-Maity/Derma-Prediction) - An AI powered platform harnessing the power of ML and Google's Gemini LLM to detect Skin Disease.
